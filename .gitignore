@@ -1,1 +1,3 @@
 /pequenium_api/__pycache__
+/apps/tag/__pycache__/*
+/apps/tag/migrations/*
