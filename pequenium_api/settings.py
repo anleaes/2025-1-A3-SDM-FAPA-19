@@ -50,6 +50,7 @@ INSTALLED_APPS = [
     'rest_framework.authtoken',
     'corsheaders',
     'tag.apps.TagConfig',
+    'category.apps.CategoryConfig',
 ]
 
 MIDDLEWARE = [
