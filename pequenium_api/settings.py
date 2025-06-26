@@ -52,6 +52,7 @@ INSTALLED_APPS = [
     'tag.apps.TagConfig',
     'newsarticle.apps.NewsarticleConfig',
     'category.apps.CategoryConfig',
+    'readinglist.apps.ReadinglistConfig',
 ]
 
 MIDDLEWARE = [
