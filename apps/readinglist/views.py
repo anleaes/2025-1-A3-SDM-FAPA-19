@@ -1,4 +1,3 @@
-@@ -0,0 +1,15 @@
 from .models import ReadingList
 from rest_framework import viewsets
 from .serializer import ReadingListSerializer
