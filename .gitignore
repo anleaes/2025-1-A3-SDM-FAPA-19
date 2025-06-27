@@ -1,6 +1,8 @@
 /pequenium_api/__pycache__
 /apps/tag/__pycache__/*
 /apps/tag/migrations/*
+/apps/user/__pycache__/*
+/apps/user/migrations/*
 /apps/newsarticle/__pycache__/*
 /apps/newsarticle/migrations/*
 /apps/category/__pycache__/*
