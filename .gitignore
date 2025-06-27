@@ -7,3 +7,11 @@
 /apps/category/migrations/*
 /apps/readinglist/__pycache__/*
 /apps/readinglist/migrations/*
+/apps/readinglistitem/__pycache__/*
+/apps/readinglistitem/migrations/*
+/apps/userarticleinteraction/__pycache__/*
+/apps/userarticleinteraction/migrations/*
+/apps/newsarticletag/__pycache__/*
+/apps/newsarticletag/migrations/*
+/apps/newsarticlecategory/__pycache__/*
+/apps/newsarticlecategory/migrations/*
