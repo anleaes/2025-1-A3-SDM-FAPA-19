@@ -52,8 +52,6 @@ INSTALLED_APPS = [
     'tag.apps.TagConfig',
     'newsarticle.apps.NewsarticleConfig',
     'category.apps.CategoryConfig',
-    'newsarticle.apps.NewsarticleConfig',
-    'category.apps.CategoryConfig',
     'readinglist.apps.ReadinglistConfig',
     'readinglistitem.apps.ReadinglistitemConfig',
     'userarticleinteraction.apps.UserarticleinteractionConfig',
