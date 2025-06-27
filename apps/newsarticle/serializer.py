@@ -1,4 +1,3 @@
-@ -0,0 +1,98 @@
 from .models import NewsArticle
 from rest_framework import serializers
 from userarticleinteraction.serializer import UserArticleInteractionSerializer
